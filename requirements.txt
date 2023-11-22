@@ -1,0 +1,4 @@
+streamlit
+bokeh
+streamlit_bokeh_events
+g4f
